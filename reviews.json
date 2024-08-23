@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Richards",
+        "subject": "Calculus I",
+        "stars": 4,
+        "review": "Dr. Richards is a great teacher who explains complex topics well, but her exams are challenging."
+      },
+      {
+        "professor": "Dr. Michael Wong",
+        "subject": "Introduction to Psychology",
+        "stars": 5,
+        "review": "Dr. Wong is very engaging and makes the subject fascinating. His lectures are a must-attend."
+      },
+      {
+        "professor": "Dr. Susan Parker",
+        "subject": "Organic Chemistry",
+        "stars": 3,
+        "review": "The material is tough, and Dr. Parker's lectures can be a bit dry. Be prepared to study a lot on your own."
+      },
+      {
+        "professor": "Dr. James Thompson",
+        "subject": "World History",
+        "stars": 5,
+        "review": "Dr. Thompson is passionate about history and makes every class interesting. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Maria Gonzalez",
+        "subject": "Spanish Literature",
+        "stars": 4,
+        "review": "Dr. Gonzalez is very knowledgeable, but the workload is heavy. You will learn a lot, though."
+      },
+      {
+        "professor": "Dr. Robert Lee",
+        "subject": "Physics II",
+        "stars": 2,
+        "review": "Dr. Lee's lectures are hard to follow, and he doesn't always clarify difficult concepts."
+      },
+      {
+        "professor": "Dr. Linda Patel",
+        "subject": "Microeconomics",
+        "stars": 3,
+        "review": "The course material is dense, and Dr. Patel moves quickly. It's important to keep up with the readings."
+      },
+      {
+        "professor": "Dr. William Harris",
+        "subject": "Introduction to Programming",
+        "stars": 5,
+        "review": "Dr. Harris is an amazing professor who makes coding accessible to everyone. Great for beginners!"
+      },
+      {
+        "professor": "Dr. Jessica Kim",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Kim's classes are discussion-heavy, which is great, but be prepared to participate."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Advanced Mathematics",
+        "stars": 3,
+        "review": "Dr. Smith is very knowledgeable, but his lectures can be a bit monotonous. Good for self-studiers."
+      },
+      {
+        "professor": "Dr. Anna Davis",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Davis brings real-world examples to class, making the subject matter relatable and interesting."
+      },
+      {
+        "professor": "Dr. Kevin Brown",
+        "subject": "Philosophy 101",
+        "stars": 5,
+        "review": "Dr. Brown encourages critical thinking and makes philosophy accessible and enjoyable."
+      },
+      {
+        "professor": "Dr. Karen Taylor",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Dr. Taylor knows her stuff, but the course is fast-paced. Be prepared to study outside of class."
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Dr. Wilson's lectures are clear, and he provides plenty of resources for understanding the material."
+      },
+      {
+        "professor": "Dr. Laura Evans",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Evans is passionate about art and makes every lecture a visual treat. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Charles Miller",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Dr. Miller's classes are very theory-heavy and can be difficult to follow without prior knowledge."
+      },
+      {
+        "professor": "Dr. Angela White",
+        "subject": "Literature",
+        "stars": 4,
+        "review": "Dr. White provides insightful analysis of texts, but the reading load is significant."
+      },
+      {
+        "professor": "Dr. Richard Green",
+        "subject": "Computer Science",
+        "stars": 3,
+        "review": "Dr. Green is knowledgeable, but his lectures can be dry. Best for those with a strong interest in the subject."
+      },
+      {
+        "professor": "Dr. Megan Carter",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Dr. Carter is engaging and makes anthropology fascinating. Her fieldwork stories are a highlight."
+      },
+      {
+        "professor": "Dr. Steven Adams",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Dr. Adams explains complex economic theories in a way that's easy to understand. Great for those new to the subject."
+      }
+    ]
+  }
+  
